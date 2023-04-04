@@ -17,4 +17,7 @@ Esse projeto foi construido na Jornada Dev pela EBAC, com a finalidade de criar 
   <li><a href="https://tiktok---jornada-31ae6.web.app/">Projeto Online</a></li>
   
   
- 
+### Contatos
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/meire-mendes-6893a6266)
+
