@@ -17,5 +17,4 @@ Esse projeto foi construido na Jornada Dev pela EBAC, com a finalidade de criar 
   <li><a href="https://tiktok---jornada-31ae6.web.app/">Projeto Online</a></li>
   
   
-  
-# **Informações do Desenvolvedor**
+ 
